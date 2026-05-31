@@ -61,6 +61,7 @@ SmartAsset, Meta, and AT&T are among those offering high salaries, showing a bro
 - **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
 ![Top Paying Roles](assets\1_top_paying_jobs.png)
+
 *Bar graph visualizing the salary for the top 10 salary for data analytics; ChaGpt generated this Graph from my SQL query results*
 
 ### 2.Skills for Top Paying Jobs
@@ -150,6 +151,7 @@ Here's the breakdown of the most demanded skills for data analysts in 2023
 Table of the demand for the top 5 skills in data analyst job postings.
 
 ![demanded skills](assets\3_top_demanded_skills.png)
+
 *Bar graph visualizing the salary for the top 10 salary for data analytics; ChaGpt generated this Graph from my SQL query results*
 
 
@@ -317,6 +319,8 @@ Here's a breakdown of the most optimal skills for Data Analysts in 2023:
 - **Database Technologies:** The demand for skills in traditional and NoSQL databases (Oracle, SQL Server, NoSQL) with average salaries ranging from $97,786 to $104,534, reflects the enduring need for data storage, retrieval, and management expertise.
 
 ![optimal skills](assets\5_optimal_skills.png)
+
+
 *Bar graph visualizing the salary for the top 10 salary for data analytics; ChaGpt generated this Graph from my SQL query results*
 
 
